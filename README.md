@@ -13,16 +13,6 @@ formal (clustering, redes de co-expresión, etc.). Esta herramienta permite
 hacer esa exploración de forma interactiva, sin escribir código cada vez
 que se quiere probar con un nuevo archivo o un número distinto de genes.
 
-## Capturas
-
-**Vista previa del archivo cargado** (probado con datos de expresión de
-tipo GEUVADIS):
-
-![Preview](assets/preview_tab.png)
-
-**Heatmap de correlación generado:**
-
-![Heatmap](assets/heatmap_tab.png)
 
 ## Formato de entrada esperado
 
